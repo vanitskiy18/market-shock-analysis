@@ -1,4 +1,4 @@
-# Global Market Shock Analysis (2020–Present)
+# Global Market Shock Analysis (2020–March 2026)
 
 This project analyzes how major financial markets reacted to global macroeconomic shocks since 2020.
 
@@ -30,6 +30,7 @@ Using Python and financial data analysis techniques, the project explores:
 market-shock-analysis
 
 │
+
 ├── market_shock_analysis.ipynb
 
 ├── README.md
