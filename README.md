@@ -49,5 +49,7 @@ The notebook examines how global financial markets reacted to events such as:
 ## Author
 
 Arseniy Vanitskiy
+
 University of Warsaw
+
 Economics & Mathematics
