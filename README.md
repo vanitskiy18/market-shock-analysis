@@ -26,6 +26,22 @@ Financial data is obtained via the Yahoo Finance API using the yfinance library.
 
 ---
 
+## 📊 Example Visualizations
+
+### Global Market Overview
+
+![Market Overview](images/market_overview.png)
+
+### Rolling Market Volatility
+
+![Market Volatility](images/market_volatility.png)
+
+### PLN Exchange Rates
+
+![PLN Exchange Rates](images/pln_exchange_rates.png)
+
+---
+
 ## 🛠 Technologies
 
 - Python
