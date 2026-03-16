@@ -1,4 +1,9 @@
-# Global Market Shock Analysis (2020–March 2026)
+# 📊 Global Market Shock Analysis (2020–Present)
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Data Analysis](https://img.shields.io/badge/Type-Data%20Analysis-green)
+![Status](https://img.shields.io/badge/status-learning%20project-brightgreen)
+![University](https://img.shields.io/badge/University-Warsaw-red)
 
 This project analyzes how major financial markets reacted to global macroeconomic shocks since 2020.
 
@@ -17,7 +22,9 @@ Using Python and financial data analysis techniques, the project explores:
 - rolling volatility
 - major market shocks
 
-## Technologies
+---
+
+## 🛠 Technologies
 
 - Python
 - pandas
@@ -25,7 +32,9 @@ Using Python and financial data analysis techniques, the project explores:
 - seaborn
 - yfinance
 
-## Project Structure
+---
+
+## 📁 Project Structure
 
 market-shock-analysis
 
@@ -37,19 +46,22 @@ market-shock-analysis
 
 └── requirements.txt
 
-## Example Analysis
+---
 
-The notebook examines how global financial markets reacted to events such as:
+## 📈 Example Analysis
 
-- the COVID-19 pandemic
+The notebook examines how global financial markets reacted to major macroeconomic events such as:
+
+- COVID-19 pandemic
 - inflation shocks
 - global monetary tightening
 - energy market disruptions
 
-## Author
+---
 
-Arseniy Vanitskiy
+## 👨‍💻 Author
 
-University of Warsaw
+**Arseniy Vanitskiy**
 
+University of Warsaw  
 Economics & Mathematics
