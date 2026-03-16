@@ -22,6 +22,8 @@ Using Python and financial data analysis techniques, the project explores:
 - rolling volatility
 - major market shocks
 
+Financial data is obtained via the Yahoo Finance API using the yfinance library.
+
 ---
 
 ## 🛠 Technologies
